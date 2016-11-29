@@ -1,20 +1,23 @@
 *{
 	background-color:rgb(102,178,255);
-	font-size: 18px;
-	
+	font-size: 20px;
+	border: 200px;
+	width: 200; 
+	border: 5px  ;
+	margin: 20px;
 }
 
 h1
 {
 	color:black;
 	font-family: "Times New Roman", Georgia, Serif ; 
+	font-size: 55px;
 }
 
 .form
 {
-	back*ground-color: red:
-}*{
-	background-color:rgb(102,178,255);
+	color: purple;
+	font-size:55px;
 }
 
 h1
@@ -27,3 +30,7 @@ h1
 	back*ground-color: red:
 }
 
+img
+{
+	float:right;
+}
